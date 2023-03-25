@@ -22,7 +22,6 @@ Como Cientista de Dados, combino habilidades analíticas, capacidade de trabalha
 ## Projetos:
 
 ---
-
-
+[Análise dos dados da Cidade de Nova York do AirBnb](https://github.com/edu-vasconcelos/Projects/blob/main/Analyzing_Airbnb_Data_for_New_York_City.ipynb)
 
 
